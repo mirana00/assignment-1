@@ -1,0 +1,133 @@
+@import url('https://fonts.googleapis.com/css2?family=Azeret+Mono:ital,wght@0,100..900;1,100..900&display=swap');
+/* font-family: "Azeret Mono", monospace; */
+*{
+    margin: 0px;
+    border: 0px;
+}
+.h-1{
+   
+position: absolute ;
+width: 50px;
+height: 20px;
+left: 60px;
+top: 30px;
+    color: rgb(13, 19, 33);
+    font-family: Azeret Mono;
+    font-size: 18px;
+    font-weight: 650;
+    line-height: 33px;
+    letter-spacing: 0%;
+    text-align: left;
+}
+.btn-1{   
+position: absolute;
+width: 198px;
+height: 10px;
+left: 1046px;
+top: 28px;
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 16px 18px 16px 18px;
+box-sizing: border-box;
+border: 1px solid rgb(21, 25, 34);
+border-radius: 10 px;
+opacity: 0.8;
+
+color: rgb(13, 19, 33);
+font-family: Azeret Mono;
+font-size: 15px;
+font-weight: 500;
+line-height: 13px;
+letter-spacing: 0%;
+text-align: center;
+
+}
+#hero{
+    height: 625px;
+background-image: url("../assets/Hero-bg.png");
+width: 1380px;
+background-size: cover;
+position: absolute;
+margin-top: 100px;
+
+}
+#hero .hero-content{
+    position: absolute;
+width: 998px;
+height: 582px;
+left: 221px;
+right: 221px;
+top: 157px;
+bottom: 4506px;
+display: flex;
+flex-direction: column;
+justify-content: flex-start;
+align-items: center;
+padding: 0px;
+}
+
+.h-2{
+    color: rgb(13, 19, 33);
+    font-family: Azeret Mono;
+    font-size: 38px;
+    font-weight: 750;
+    line-height: 58px;
+    letter-spacing: 0%;
+    text-align: center;
+    
+position: static;
+width: 998px;
+height: 136px;
+
+display: flex;
+flex-direction: column;
+justify-content: flex-start;
+align-items: center;
+padding: 0px;
+flex: none;
+order: 0;
+flex-grow: 0;
+margin: 24px 0px;
+
+}
+
+.p-1{
+    color: rgb(13, 19, 33);
+    font-family: Azeret Mono;
+    font-size: 13px;
+    font-weight: 400;
+    line-height: 26px;
+    letter-spacing: 0%;
+    text-align: center;
+
+}
+
+.btn-2{
+    border-radius: 8px;
+background: rgb(13, 19, 33);
+tex
+
+position: static;
+width: 208px;
+height: 66px;
+
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 21px 24px 21px 24px;
+
+flex: none;
+order: 1;
+flex-grow: 0;
+margin: 32px 0px;
+color: rgb(255, 255, 255);
+font-family: Azeret Mono;
+font-size: 15px;
+font-weight: 500;
+line-height: 23px;
+letter-spacing: 0%;
+text-align: center;
+}
